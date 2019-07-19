@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 65dad6b9fdbfc604b94111ceb8e7e6e3
+timeCreated: 1490216693
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BathroomDoor1
+    100002: Blocks
+    100004: Fence
+    100006: FenceP
+    100008: House
+    100010: Pillars
+    100012: //RootNode
+    100014: RoomDoubleDoor1
+    100016: RoomDoubleDoor2
+    100018: RoomGate1
+    100020: Secretroom2
+    100022: SecretRoomdoor
+    100024: Stairs
+    100026: WindowGrill1.005
+    400000: BathroomDoor1
+    400002: Blocks
+    400004: Fence
+    400006: FenceP
+    400008: House
+    400010: Pillars
+    400012: //RootNode
+    400014: RoomDoubleDoor1
+    400016: RoomDoubleDoor2
+    400018: RoomGate1
+    400020: Secretroom2
+    400022: SecretRoomdoor
+    400024: Stairs
+    400026: WindowGrill1.005
+    2300000: BathroomDoor1
+    2300002: Blocks
+    2300004: Fence
+    2300006: FenceP
+    2300008: House
+    2300010: Pillars
+    2300012: RoomDoubleDoor1
+    2300014: RoomDoubleDoor2
+    2300016: RoomGate1
+    2300018: Secretroom2
+    2300020: SecretRoomdoor
+    2300022: Stairs
+    2300024: WindowGrill1.005
+    3300000: BathroomDoor1
+    3300002: Blocks
+    3300004: Fence
+    3300006: FenceP
+    3300008: House
+    3300010: Pillars
+    3300012: RoomDoubleDoor1
+    3300014: RoomDoubleDoor2
+    3300016: RoomGate1
+    3300018: Secretroom2
+    3300020: SecretRoomdoor
+    3300022: Stairs
+    3300024: WindowGrill1.005
+    4300000: Fence
+    4300002: FenceP
+    4300004: Stairs
+    4300006: Blocks
+    4300008: Pillars
+    4300010: House
+    4300012: WindowGrill1.005
+    4300014: Secretroom2
+    4300016: SecretRoomdoor
+    4300018: BathroomDoor1
+    4300020: RoomDoubleDoor2
+    4300022: RoomDoubleDoor1
+    4300024: RoomGate1
+    6400000: BathroomDoor1
+    6400002: Blocks
+    6400004: Fence
+    6400006: FenceP
+    6400008: House
+    6400010: Pillars
+    6400012: RoomDoubleDoor1
+    6400014: RoomDoubleDoor2
+    6400016: RoomGate1
+    6400018: Secretroom2
+    6400020: SecretRoomdoor
+    6400022: Stairs
+    6400024: WindowGrill1.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
